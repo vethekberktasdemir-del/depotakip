@@ -1,0 +1,2 @@
+# depotakip
+DTS Karekod okutma
